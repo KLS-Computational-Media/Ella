@@ -86,7 +86,8 @@ function draw() {
     fill(0,300,300,2);
     noStroke();
 }}
- //idk
+
+//idk
 
 function setup() {
   createCanvas(700, 600);
